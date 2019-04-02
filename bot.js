@@ -6,7 +6,7 @@ console.log("Scrpit By Dream");
 client.on("ready", () => {
 let channel =     client.channels.get("561981605791399948")
 setInterval(function() {
-channel.send(` 37m9 thz best play minecraft`);
+channel.send(` 37m9 thz best p657567567657567567567567567567567567567567yutyuytuytuytutyuytlay minecraft`);
 }, 30)
 })
 
